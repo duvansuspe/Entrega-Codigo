@@ -3,7 +3,7 @@ readme.txt
 --- instrucciones
 Para el coorecto funcionamiento del proyecto a continuación les comparto unas instrucciones:
 1. La base de datos del proyecto se manejo en mysql con XAMPP, el cual se solicita crear la BD con la siguiente sentencia
--------- create DATABASE pruebaduban --------- Luego crear la tabla empleado con los siguientes datos. 
+-------- create DATABASE pruebaduban -------- Luego crear la tabla empleado con los siguientes datos. 
 
 create table empleado (
     id int PRIMARY KEY auto_increment not null,
